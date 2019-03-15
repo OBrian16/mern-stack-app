@@ -9,7 +9,7 @@ app.use(express.json());
 
 // routes
 app.get('/', (req, res) => {
-    res.send('This is MERN');
+    res.send('This is TBR Manager');
 });
 
 // server
